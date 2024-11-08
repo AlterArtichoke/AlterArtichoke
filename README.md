@@ -1,5 +1,5 @@
-# 😄 Hey! I'm Krish Tejwani, 
-a Full-Stack Developer from India
+# 😄 Hey! I'm Krish Tejwani
+a Full-Stack Developer from India<br>
 🔭 I’m currently working on Computer Vision<br>🤝 I’m looking to collaborate on OpenCV<br>🌱 I’m currently learning Algorithms<br>💬 Ask me about Outdoor Adventures, Music, Pop Culture<br>⚡ Fun fact : I love mountains
 
 
